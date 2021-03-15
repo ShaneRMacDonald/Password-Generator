@@ -11,3 +11,4 @@ Create a website capable of generating a random password using:
  https://shanermacdonald.github.io/Password-Generator/
 
 ## Website Preview
+![Password Generator](https://user-images.githubusercontent.com/77406856/111091634-f534a500-8509-11eb-8f95-56cbb67adaa3.png)
