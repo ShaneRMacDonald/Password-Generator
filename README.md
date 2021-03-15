@@ -8,6 +8,6 @@ Create a website capable of generating a random password using:
 4. All special characters, eg !, @, #, etc
 
 ## Deployed website
-
+ https://shanermacdonald.github.io/Password-Generator/
 
 ## Website Preview
